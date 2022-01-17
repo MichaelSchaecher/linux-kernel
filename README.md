@@ -31,11 +31,9 @@ With an explicit syscall exception, as stated at:
 
 > LICENSES/exceptions/Linux-syscall-note
 
-In addition, other licenses may also apply. Please see:
+In addition, other licenses may also apply, for more details please see:
 
 > Documentation/process/license-rules.rst
-
-for more details.
 
 All contributions to the Linux Kernel are subject to this COPYING file.
 
