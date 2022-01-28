@@ -39,7 +39,7 @@ All contributions to the Linux Kernel are subject to this COPYING file.
 
 ## Changes Made for WSL
 
-This is by default the current stable Linux kernel source found **[here](https://www.kernel.org/)**; then only notable changes made is for _WSL2_ support.
+This is by default the current stable Linux kernel source found **[here](https://www.kernel.org/)**; the only notable changes made is for _WSL2_ support.
 
 Instead of copying or downloading the config file from Microsoft's Linux kernel **[rep](https://github.com/microsoft/WSL2-Linux-Kernel)**, I've added support for x86_64 hardware. This means that if you run any of the `make` commands for configuring the build environment, if you was running the Linux distro inside _wsl_ then the right config file well be used.
 
